@@ -1,5 +1,7 @@
-# Three.js汽车预览3D模型
+# Three.js 汽车模型预览
 
-QQ：2091545890 暗号：lisashare
+# 开启服务访问index.html
+
+wx：xing__en
 
 <img src="demo.png" width="960px" /> 
